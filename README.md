@@ -31,7 +31,6 @@ Este repositório contém um guia passo a passo para fazer o deploy de uma aplic
   - [Construir e Iniciar a Aplicação](#construir-e-iniciar-a-aplicação)
   - [Verificar a Aplicação](#verificar-a-aplicação)
 - [Resumo](#resumo)
-- [Licença](#licença)
 
 ## Pré-requisitos
 
@@ -197,12 +196,3 @@ Acesse sua aplicação via navegador usando o IP público da sua instância EC2 
 
 - Este projeto demonstra como configurar e fazer o deploy de uma aplicação NodeJS em uma instância EC2 usando Docker.
 - Ele utiliza Docker Compose para orquestração de serviços e Docker Machine para provisionamento e gerenciamento da instância na AWS.
-
-## Licença
-
-Este projeto está licenciado sob os termos da MIT License.
-```
-
----
-
-Este `README.md` fornece uma visão completa de como configurar e fazer o deploy da sua aplicação NodeJS em uma instância EC2 da AWS utilizando Docker, Docker Compose e Docker Machine.
